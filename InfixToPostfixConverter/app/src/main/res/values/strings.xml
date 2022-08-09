@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InfixToPostfixConverter</string>
+    <string name="appDescriptionText2">Please note that the infix expression can be a maximum of 20 characters, cannot contain numbers and is limited to the operators +, -, /, and *.</string>
+    <string name="appDescriptionText1">This application converts expressions written in infix notation, into postfix notation.</string>
+    <string name="clearBtnText">Clear</string>
+    <string name="convertBtnText">Convert</string>
+    <string name="userInputHintText">Enter expression here</string>
+    <string name="switchText">Switch</string>
+</resources>
